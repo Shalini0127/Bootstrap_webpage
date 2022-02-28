@@ -1,0 +1,59 @@
+ * {
+     margin: 0;
+     padding: 0;
+ }
+ 
+ .navbar-brand {
+     /* padding-left: 2rem; */
+     position: relative;
+     left: 2rem;
+ }
+ 
+ .carousel-item img {
+     height: 90vh;
+     width: 100%;
+ }
+ 
+ .text-center {
+     margin: 2rem;
+ }
+ 
+ .about_img {
+     min-width: 100%;
+     min-height: 280px;
+ }
+ 
+ .services .row {
+     padding-right: 0;
+     padding-left: 0;
+ }
+ 
+ .services img {
+     width: 100%;
+     height: 100%;
+ }
+ 
+ .img-fluid {
+     max-width: 100%;
+     height: 25rem;
+     padding: 5px;
+ }
+ 
+ .offer_style {
+     background: #a6dcef;
+ }
+ /* Small devices (landscape phones, 576px and up) */
+ 
+ @media (min-width: 576px) {}
+ /* Medium devices (tablets, 768px and up) */
+ 
+ @media (min-width: 768px) {}
+ /* Large devices (desktops, 992px and up) */
+ 
+ @media (min-width: 992px) {}
+ /* X-Large devices (large desktops, 1200px and up) */
+ 
+ @media (min-width: 1200px) {}
+ /* XX-Large devices (larger desktops, 1400px and up) */
+ 
+ @media (min-width: 1400px) {}
